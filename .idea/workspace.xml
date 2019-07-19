@@ -27,10 +27,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/07_interface/embed_interface.go">
+        <entry file="file://$PROJECT_DIR$/08_concurrency/philo.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="353">
+              <caret line="50" column="21" lean-forward="true" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
+              <folding>
+                <element signature="e#14#78#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -71,6 +74,7 @@
         <option value="$PROJECT_DIR$/07_interface/assertion_type.go" />
         <option value="$PROJECT_DIR$/07_interface/polymorphism.go" />
         <option value="$PROJECT_DIR$/07_interface/embed_interface.go" />
+        <option value="$PROJECT_DIR$/08_concurrency/philo.go" />
       </list>
     </option>
   </component>
@@ -96,7 +100,7 @@
             <path>
               <item name="going" type="b2602c69:ProjectViewProjectNode" />
               <item name="going" type="462c0819:PsiDirectoryNode" />
-              <item name="07_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="08_concurrency" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -185,7 +189,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="985" y="23" width="915" height="974" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15499426" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -370,8 +373,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/07_interface/embed_interface.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
+        <state relative-caret-position="-37">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_concurrency/philo.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="50" column="21" lean-forward="true" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
+          <folding>
+            <element signature="e#14#78#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
